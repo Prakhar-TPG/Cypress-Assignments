@@ -1,0 +1,10 @@
+{
+    "product_name_loc": ".inventory_item_name",
+    "product_price_loc": ".inventory_item_price",
+    
+    "add_to_cart_button": "#add-to-cart-sauce-labs-backpack",
+    "cart_button": ".shopping_cart_link",
+    "remove_button": "#remove-sauce-labs-backpack"
+
+  }
+  

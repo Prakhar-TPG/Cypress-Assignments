@@ -1,0 +1,7 @@
+{
+    "cartproduct_name_loc": ".inventory_item_name",
+    "cartproduct_price_loc": ".inventory_item_price",
+    "continue_shopping_button": "#continue-shopping"
+    
+  }
+  

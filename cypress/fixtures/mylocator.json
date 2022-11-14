@@ -1,0 +1,9 @@
+{
+  "username_loc": "#user-name",
+  "password_loc": "#password",
+  "login_button": "#login-button",
+  "hamburger_icon": "#react-burger-menu-btn",
+  "logout_button": "#logout_sidebar_link",
+  "Logout_name": "Logout",
+  "valid_message": "[data-test='error']"
+}
