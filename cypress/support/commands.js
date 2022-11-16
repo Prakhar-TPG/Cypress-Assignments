@@ -1,6 +1,6 @@
-Cypress.Commands.add('loginPage', (username, name, password, pass, login_button) => {
-    cy.get(username).type(name);
-    cy.get(password).type(pass);
+Cypress.Commands.add('loginPage', (username_loc, name, password_loc, password, login_button) => {
+    cy.get(username_loc).type(name);
+    cy.get(password_loc).type(password);
     cy.get(login_button).click();
 })
 
